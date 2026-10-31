@@ -27,6 +27,17 @@ I am a Full Stack Developer specializing in building interactive frontends, scal
 
 ---
 
+#### 🌐 Public Project: Yuvansh Power Solutions
+*A fully responsive frontend website developed for Yuvansh Power Solutions and deployed via Netlify.*
+
+**🔹 Technologies Used:** React.js, JavaScript (ES6+), HTML5, CSS3, Vite.
+**🔹 Project Highlights:**
+*   Developed a dynamic and responsive user interface using React.js and Vite.
+*   Implemented modern frontend practices with ES6+ JavaScript.
+*   Codebase is publicly available for review to demonstrate frontend proficiency.
+
+---
+
 #### 📫 Let's Connect
 *   **Email:** tanujawani29@gmail.com 
 *   **LinkedIn:** https://www.linkedin.com/in/tanuja-wani-6b4256269?utm_source=share_via&utm_content=profile&utm_medium=member_android
