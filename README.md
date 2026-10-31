@@ -29,4 +29,4 @@ I am a Full Stack Developer specializing in building interactive frontends, scal
 
 #### 📫 Let's Connect
 *   **Email:** tanujawani29@gmail.com 
-*   **LinkedIn:** tanuja-wani
+*   **LinkedIn:** https://www.linkedin.com/in/tanuja-wani-6b4256269?utm_source=share_via&utm_content=profile&utm_medium=member_android
